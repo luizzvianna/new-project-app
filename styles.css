@@ -63,7 +63,7 @@ button {
     text-align: center;
     font-size: 18px;
     font-weight: 600;
-    margin-top: 60px;
+    margin-top: 95px;
     cursor: pointer;
    
 }
@@ -105,4 +105,10 @@ div i {
     position: absolute;
     right: 101%;
     margin-top: 39px;
+}
+
+#caixinha {
+    margin-left: 37px;
+    display: flex;
+    margin-top: -35px;
 }
