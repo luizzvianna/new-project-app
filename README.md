@@ -5,3 +5,9 @@
 <br>
 <br>
 <img src="https://github.com/luizzvianna/new-project-app/blob/master/img/projetoapp.jpg?raw=true" >
+<br>
+<br>
+foi atualizado o texto do checkbox na lateral direita .
+<br>
+<br>
+<img src="https://github.com/luizzvianna/new-project-app/blob/master/img/projetoappatualizado.jpg?raw=true" >
